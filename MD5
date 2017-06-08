@@ -1,0 +1,8 @@
+0e319e05797c7cfc243db794f5025861 *DESCRIPTION
+e9549fe4ec5095174b63f91dfba83b91 *NAMESPACE
+7805d1cea3d8ccacb77e96fcc8e7f739 *R/mixEMM.r
+a7f06d2e7f90e235e01c8a8a08f6d31b *R/sim_dat.r
+d65f526ff0f5122aff66e4f742e5bea8 *build/partial.rdb
+001b24f338a8c9c9a72cc9d37be781bd *data/sim_dat.rda
+c9e5f4bbc31911500b9e1ecc29eb918b *man/mixEMM.Rd
+547233a6958ab282797793a58111e5aa *man/sim_dat.Rd
